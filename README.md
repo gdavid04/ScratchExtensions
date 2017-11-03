@@ -1,2 +1,2 @@
 ## List of extensions
-[HTTP requests](https://github.com/gdavid04/ScratchExtensions/blob/master/HTTP%20requests.js)
+[HTTP requests](https://gdavid04.github.io/ScratchExtensions/HTTP_requests)
