@@ -1,5 +1,6 @@
 [<< home](https://gdavid04.github.io/ScratchExtensions/)
 ## HTTP requests
+[view on GitHub](https://github.com/gdavid04/ScratchExtensions/blob/master/HTTP%20requests.js)
 
 ``` javascript
 (function(ext) {
