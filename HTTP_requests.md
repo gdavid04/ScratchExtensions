@@ -1,7 +1,7 @@
 [<< home](https://gdavid04.github.io/ScratchExtensions/)
 ## HTTP requests
 
-``` js
+``` javascript
 (function(ext) {
     ext._shutdown = function() {};
 
