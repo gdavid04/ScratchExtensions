@@ -1,4 +1,8 @@
+[<< home](https://gdavid04.github.io/ScratchExtensions/)
+## Pointer lock
+[view on GitHub](https://github.com/gdavid04/ScratchExtensions/blob/master/Pointer%20lock.js)
 
+``` javascript
 (function(ext) {
     ext._shutdown = function() {
         document.exitPointerLock();
@@ -82,3 +86,4 @@
 
     ScratchExtensions.register('Pointer lock', descriptor, ext);
 })({});
+```
