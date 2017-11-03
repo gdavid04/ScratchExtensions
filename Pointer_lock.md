@@ -1,7 +1,9 @@
 [<< home](https://gdavid04.github.io/ScratchExtensions/)
 ## Pointer lock
 [view on GitHub](https://github.com/gdavid04/ScratchExtensions/blob/master/Pointer%20lock.js)
-
+### Blocks
+![blocks](https://gdavid04.github.io/ScratchExtensions/Pointer_lock.png)
+### Code
 ``` javascript
 (function(ext) {
     ext._shutdown = function() {
