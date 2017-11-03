@@ -1,7 +1,9 @@
 [<< home](https://gdavid04.github.io/ScratchExtensions/)
 ## HTTP requests
 [view on GitHub](https://github.com/gdavid04/ScratchExtensions/blob/master/HTTP%20requests.js)
-
+### Blocks
+![blocks](https://gdavid04.github.io/ScratchExtensions/HTTP_requests.png)
+### Code
 ``` javascript
 (function(ext) {
     ext._shutdown = function() {};
